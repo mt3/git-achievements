@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
-<title>mt3's Git Achievements</title>
+<title>mt's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Banker (Level 2)</title><description>Join two or more development histories together with git merge.</description></item>
+<item><title>Apprentice Banker (Level 1)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Garage Inventor</title><description>Used a custom alias for a Git command</description></item>
 <item><title>Student</title><description>Accessed the documentation for a command with git [command] --help</description></item>
 </channel></rss>
