@@ -2,6 +2,7 @@
 <title>mt's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Cathedral Worker (Level 1)</title><description>Cloned submodule repository and checked out commits specified by superproject.</description></item>
 <item><title>Cathedral Architect (Level 4)</title><description>Added a submodule to a repository.</description></item>
 <item><title>Apprentice Cathedral Architect (Level 3)</title><description>Added a submodule to a repository.</description></item>
 <item><title>Apprentice Cathedral Architect (Level 2)</title><description>Added a submodule to a repository.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Apprentice Merchant (Level 1)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Apprentice Banker (Level 2)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Apprentice Banker (Level 1)</title><description>Join two or more development histories together with git merge.</description></item>
-<item><title>Garage Inventor</title><description>Used a custom alias for a Git command</description></item>
 </channel></rss>
